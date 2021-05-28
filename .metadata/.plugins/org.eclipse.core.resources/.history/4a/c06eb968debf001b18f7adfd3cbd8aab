@@ -1,0 +1,5 @@
+package com.mcurvello.myinvest.resources;
+
+public class InvestimentoResource {
+
+}

@@ -1,0 +1,5 @@
+package com.mcurvello.myinvest.repository;
+
+public interface InvestimentoRepository {
+
+}

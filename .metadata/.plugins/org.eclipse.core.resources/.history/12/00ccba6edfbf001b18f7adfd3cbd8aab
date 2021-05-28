@@ -1,0 +1,16 @@
+package com.mcurvello.myinvest.resources;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.mcurvello.myinvest.domain.Investimento;
+
+@RestController
+public class InvestimentoResource {
+
+	@GetMapping
+	public List<Investimento> listarTodos(){
+		
+	}
+}

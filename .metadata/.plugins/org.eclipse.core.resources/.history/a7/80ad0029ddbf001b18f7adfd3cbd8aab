@@ -1,0 +1,5 @@
+package com.mcurvello.myinvest.domain;
+
+public class Categoria {
+
+}
